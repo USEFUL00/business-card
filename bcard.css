@@ -1,0 +1,46 @@
+body {
+  margin: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.avatar {
+  background-color: white;
+  width: 150px;
+  height: 200px;
+  border-radius: 20px;
+}
+.card {
+  display: flex;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #5b4893;
+  justify-content: space-around;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  border-bottom:10px solid #271d56;
+  
+}
+
+.white{
+  color:white;
+}
+.details {
+  margin-left: 20px;
+  text-align: center;
+
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0px;
+}
+.secret{
+
+  display:block;
+  margin-top: 20px;
+}
+
